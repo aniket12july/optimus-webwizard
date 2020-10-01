@@ -1,5 +1,5 @@
-Url: http://optimus-webwizard.appspot.com
-
+WELCOME TO OUR PROJECT WEBWIZARD
+URl: http://optimus-webwizard.appspot.com
 List of Api used:
 1. Picasa API- For gallery images
 2. Charts API- For displaying charts in /donate
@@ -17,3 +17,4 @@ Source of project available at: http://code.google.com/p/optimus-web-wizard/
 The gmail id used for authorizing access to spreadsheet is:
 Username: webwizarddummy@gmail.com
 Password: webwizarddummy
+THANK YOU FOR VISITING
